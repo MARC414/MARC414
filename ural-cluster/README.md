@@ -4,17 +4,20 @@ Eight bilingual guides, built and verified against `MARC414/URAL-Travel` at
 `410add7` (post-PR #93), scheduled serially from 3 November 2026 and ready to
 land as one release.
 
-**Why this is a bundle and not a pull request.** The sandbox's GitHub token can
-read and administer `MARC414/URAL-Travel` but cannot write to it: `git push`
-returns `403 Permission to MARC414/URAL-Travel.git denied to MARC414`, and the
-API returns `403 Resource not accessible by integration` even for
-`POST /git/refs`. The working tree and every verification run locally; only the
-push step is blocked. Two ways forward:
+**Why this is a bundle and not a pull request on `URAL-Travel`.** The session's
+GitHub token can read `MARC414/URAL-Travel` but cannot write to it: `git push`
+returns `403 Permission to MARC414/URAL-Travel.git denied to MARC414`, and
+`POST /repos/MARC414/URAL-Travel/git/refs` returns `403 Resource not accessible
+by integration`. That second message means the token is a **GitHub App
+installation token** — the app is installed on `MARC414/MARC414` (writes there
+work) and not on `URAL-Travel`, whose public pages stay readable regardless. The
+account `MARC414` itself has admin on both repos; the token's scope is the limit,
+so no amount of retrying changes it. Two ways forward:
 
-1. **You push it** — apply the bundle (commands below), then push and open the
-   PR.
-2. **Give the session a token that can write to `URAL-Travel`** and I will push
-   and open the PR myself in a follow-up turn.
+1. **You apply it** — one command: `git am` the release patch (below), push, open
+   the PR. The result is byte-identical to the tree verified here.
+2. **Grant the Arena GitHub app access to `URAL-Travel`** and I will push the
+   branch and open the PR on that repo myself in a follow-up turn.
 
 ---
 
@@ -66,10 +69,37 @@ SOURCE-MAP.md                 the notebook_sources_urls sheet: all 20 URLs, fetc
 content/blog/                 8 new posts (English + full Bengali twin each)
 public/assets/images/         8 covers × 3 widths × WebP + AVIF (48 files)
 src/assets/optimized-social/  8 social masters (1200×800, q82)
-patches/ural-cluster-src.patch  the 6 source changes the release needs
+patches/ural-travel-release.patch  the whole release as one commit (git am) — 5.0 MB
+patches/ural-cluster-src.patch     just the 6 source changes, if you prefer by hand
 ```
 
-## Apply it
+## Apply it — one command (recommended)
+
+The whole release — 8 posts, 48 cover renditions, 8 social masters and the 6
+source changes — is one commit, packaged as
+`patches/ural-travel-release.patch` (5.0 MB, binaries included). Applying it
+reproduces the delivered tree byte for byte (tree `b66db24`, verified by
+`git am` into a clean clone of `410add7`).
+
+```bash
+git clone https://github.com/MARC414/URAL-Travel.git
+cd URAL-Travel
+git checkout -b content/makkah-madinah-accommodation-cluster
+git am --3way /path/to/ural-cluster/patches/ural-travel-release.patch
+
+npm ci
+npm run test:scheduling
+npm run lint
+npm run build
+npm run verify:build      # expect: All 510 checks passed
+git push -u origin content/makkah-madinah-accommodation-cluster
+gh pr create --base main --fill   # or use the suggested body below
+```
+
+The commit message is the PR description: dates, source corrections, the
+Bengali fix, the asset set, the six source changes and the verification line.
+
+## Apply it — by hand (fallback)
 
 ```bash
 git clone https://github.com/MARC414/URAL-Travel.git
@@ -95,6 +125,33 @@ npm run verify:build
 
 Expected: `All 510 checks passed`. The first five posts build and publish
 immediately; the rest follow at 09:00 Dhaka on their dates.
+
+## Why the PR is not on `URAL-Travel` yet
+
+Checked again on 8 November. Account `MARC414` has admin on `URAL-Travel`
+(`GET /repos/MARC414/URAL-Travel` → `permissions: {admin: true, push: true}`,
+`private: false`), and this session can **read** that repo — the clone, fetch and
+full build above all ran against it. Writing is still refused, by both routes:
+
+```
+git push  → remote: Permission to MARC414/URAL-Travel.git denied to MARC414.
+            fatal: ... error: 403
+POST /repos/MARC414/URAL-Travel/git/refs
+          → 403 "Resource not accessible by integration"
+```
+
+`Resource not accessible by integration` is the signature of a **GitHub App
+installation token**, not a user token: the account's own permissions do not
+apply to it, only the repositories the Arena GitHub App was installed on. Writes
+to `MARC414/MARC414` succeed with the same token, so the app is installed there
+and not on `URAL-Travel` (public repos stay readable without an installation,
+which is why every read works).
+
+**The fix is on the connection, not the code:** grant the Arena GitHub app access
+to `MARC414/URAL-Travel` (repo selection in the GitHub connection), and the push
+plus `gh pr create` against that repo can be done in one step, with no patch
+files involved. Until then, the `git am` path above is the shortest route, and
+everything needed to take it is in this folder.
 
 ## Verified in this session (8 November 2026, 03:30 Dhaka)
 
