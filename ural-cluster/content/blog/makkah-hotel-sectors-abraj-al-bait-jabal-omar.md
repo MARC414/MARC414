@@ -1,7 +1,7 @@
 ---
 slug: makkah-hotel-sectors-abraj-al-bait-jabal-omar
 status: scheduled
-publishDate: "2026-10-22"
+publishDate: "2026-11-04"
 title: "Makkah Hotel Sectors: Abraj Al-Bait, Jabal Omar or a Shuttle Zone"
 titleBn: "মক্কার হোটেল সেক্টর: আবরাজ আল-বাইত, জাবাল ওমর নাকি শাটল জোন"
 summary: "Checked 8 November 2026: what the three Makkah accommodation tiers actually cost you in walking time, lift queues and shuttle buffers, and which one fits your group."
@@ -13,9 +13,9 @@ authorBn: ফারহান মোমেন (ফাউন্ডার ও ট�
 readTime: 10 min read
 readTimeBn: ১০ মিনিট পঠন
 updatedAt: "2026-11-08"
-coverImage: umrah_makkah_haram_guide_1790430007679
-coverAltEn: The Haram and its surrounding hotel towers seen across the courtyard in Makkah.
-coverAltBn: মক্কায় হারাম চত্বরের ওপারে হোটেলের টাওয়ারগুলো।
+coverImage: sector_tiers_clockwise_20261108
+coverAltEn: Makkah's hotel towers and terraced podium blocks rising behind the marble courtyard at dusk.
+coverAltBn: সন্ধ্যায় মার্বেল চত্বরের পেছনে মক্কার হোটেল টাওয়ার আর সিঁড়ির মতো পোডিয়াম ব্লক।
 seoTitle: "Makkah Hotel Sectors Compared: Abraj Al-Bait vs Jabal Omar vs Shuttle Zones"
 seoDescription: "Abraj Al-Bait, Jabal Omar and the Aziziyah shuttle zones behave differently at prayer time. Compare walking, lift queues, plaza access and shuttle limits before you book."
 seoTitleBn: "মক্কার হোটেল সেক্টর: আবরাজ আল-বাইত, জাবাল ওমর ও শাটল জোনের তুলনা"
@@ -40,12 +40,12 @@ references:
 internalLinksEn:
   - text: "Nusuk hotel BRN and Rawdah permits: what actually opens the gate"
     path: /blog/nusuk-hotel-brn-rawdah-gate-guide
-  - text: "Convert map metres into real room-to-carpet walking time"
-    path: /blog/makkah-hotel-walking-time-vs-map-distance
+  - text: "DIY Umrah visa routes and the budget checks that go with them"
+    path: /blog/umrah-hajj-guide-bangladesh-nusuk-bdt-cost
   - text: "Choose a Makkah or Madinah hotel whose entrance fits your gate"
     path: /blog/makkah-madinah-hotel-zones-haramain-train-guide-bangladesh
-  - text: "A hotel for parents, wheelchairs and quad rooms"
-    path: /blog/family-elderly-umrah-hotels-ground-access
+  - text: "Travelling with elderly parents: assistance, mobility and medical checks"
+    path: /blog/umrah-with-elderly-parents-bangladesh-wheelchair-medical-guide
   - text: "Search live hotel rates for Makkah and Madinah stays"
     path: /hotels
   - text: "The DIY Umrah planning hub and budget calculator"
@@ -53,12 +53,12 @@ internalLinksEn:
 internalLinksBn:
   - text: "নুসুক হোটেল BRN ও রওদা পারমিট: গেট আসলে কীসে খোলে"
     path: /blog/nusuk-hotel-brn-rawdah-gate-guide
-  - text: "ম্যাপের মিটার থেকে রুম-থেকে-সিজদা পর্যন্ত আসল সময়"
-    path: /blog/makkah-hotel-walking-time-vs-map-distance
+  - text: "DIY ওমরাহর ভিসা রুট ও তার সঙ্গে যাচাই করার বাজেট"
+    path: /blog/umrah-hajj-guide-bangladesh-nusuk-bdt-cost
   - text: "মক্কা বা মদিনার যে হোটেলের প্রবেশপথ আপনার গেটের সঙ্গে মেলে"
     path: /blog/makkah-madinah-hotel-zones-haramain-train-guide-bangladesh
-  - text: "বাবা-মা, হুইলচেয়ার ও কোয়াড রুমের জন্য হোটেল"
-    path: /blog/family-elderly-umrah-hotels-ground-access
+  - text: "বয়স্ক বাবা-মাকে নিয়ে যাচ্ছেন? সহায়তা, চলাচল ও চিকিৎসার প্রস্তুতি"
+    path: /blog/umrah-with-elderly-parents-bangladesh-wheelchair-medical-guide
   - text: "মক্কা ও মদিনার হোটেলের লাইভ ভাড়া সার্চ করুন"
     path: /hotels
   - text: "DIY ওমরাহ প্ল্যানিং হাব ও বাজেট ক্যালকুলেটর"

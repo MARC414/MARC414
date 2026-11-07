@@ -1,7 +1,7 @@
 ---
 slug: hajj-umrah-accommodation-guide-makkah-madinah
 status: scheduled
-publishDate: "2026-11-01"
+publishDate: "2026-11-10"
 title: "Hajj and Umrah Accommodation: How to Choose Where You Sleep"
 titleBn: "হজ্জ ও ওমরাহর আবাসন: কোথায় ঘুমাবেন তা কীভাবে ঠিক করবেন"
 summary: "Checked 8 November 2026: the whole accommodation picture for both holy cities in one place — Makkah's three zones, Madinah's four Markazia sides, the four factors that decide comfort, and when to book."
@@ -13,9 +13,9 @@ authorBn: ফারহান মোমেন (ফাউন্ডার ও ট�
 readTime: 13 min read
 readTimeBn: ১৩ মিনিট পঠন
 updatedAt: "2026-11-08"
-coverImage: tawaf_mataf_kaaba_circuits_1791000000000
-coverAltEn: Pilgrims circling the Kaaba in the Mataf of Masjid al-Haram.
-coverAltBn: মাসজিদ আল-হারামের মাতাফে কাবার চারপাশে হাজিদের তাওয়াফ।
+coverImage: hotel_cluster_pillar_20261108
+coverAltEn: The marble plaza and hotel towers around the Haram at dusk.
+coverAltBn: সন্ধ্যায় হারামের চারপাশে মার্বেল চত্বর ও হোটেল টাওয়ার।
 seoTitle: "Hajj and Umrah Accommodation Guide: Makkah and Madinah (2026)"
 seoDescription: "Choose where to sleep in Makkah and Madinah: the three Makkah zones, four Madinah Markazia sides, vertical transit, quad room layouts, gate access and booking lead times."
 seoTitleBn: "হজ্জ ও ওমরাহর আবাসন গাইড: মক্কা ও মদিনা (২০২৬)"

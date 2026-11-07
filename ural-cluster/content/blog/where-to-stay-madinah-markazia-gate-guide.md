@@ -1,7 +1,7 @@
 ---
 slug: where-to-stay-madinah-markazia-gate-guide
 status: scheduled
-publishDate: "2026-10-24"
+publishDate: "2026-11-05"
 title: "Where to Stay in Madinah: Markazia Sides and the Gate You Will Use"
 titleBn: "মদিনায় কোথায় থাকবেন: মারকাজিয়া কোন পাশে, আর কোন গেট ব্যবহার করবেন"
 summary: "Checked 8 November 2026: how the northern, eastern, western and southern Markazia sectors connect to Masjid an-Nabawi, which gates serve which pilgrims, and how to read the three distance tiers before booking."
@@ -13,9 +13,9 @@ authorBn: ফারহান মোমেন (ফাউন্ডার ও ট�
 readTime: 11 min read
 readTimeBn: ১১ মিনিট পঠন
 updatedAt: "2026-11-08"
-coverImage: madinah_green_dome_1790484369923
-coverAltEn: The green dome of Masjid an-Nabawi above the mosque courtyard in Madinah.
-coverAltBn: মদিনায় মাসজিদ আন-নববীর সবুজ গম্বুজ ও মসজিদের চত্বর।
+coverImage: madinah_plaza_sides_20261108
+coverAltEn: Closed shade umbrellas and arcades around the plaza of Masjid an-Nabawi at blue hour.
+coverAltBn: নীল সন্ধ্যায় মাসজিদ আন-নববীর চত্বরে বন্ধ ছাতা আর আর্কেড।
 seoTitle: "Where to Stay in Madinah: Markazia Sectors and Gate Access (2026)"
 seoDescription: "Northern Markazia suits women and families walking to the female gates; western and southern blocks sit nearer the male routes. Compare the three Madinah distance tiers before booking."
 seoTitleBn: "মদিনায় কোথায় থাকবেন: মারকাজিয়া সেক্টর ও গেট (২০২৬)"
@@ -42,8 +42,8 @@ internalLinksEn:
     path: /blog/nusuk-hotel-brn-rawdah-gate-guide
   - text: "Makkah hotel sectors compared: towers, podium blocks and shuttle zones"
     path: /blog/makkah-hotel-sectors-abraj-al-bait-jabal-omar
-  - text: "A hotel for parents, wheelchairs and quad rooms"
-    path: /blog/family-elderly-umrah-hotels-ground-access
+  - text: "Travelling with elderly parents: assistance, mobility and medical checks"
+    path: /blog/umrah-with-elderly-parents-bangladesh-wheelchair-medical-guide
   - text: "Choose a Makkah or Madinah hotel whose entrance fits your gate"
     path: /blog/makkah-madinah-hotel-zones-haramain-train-guide-bangladesh
   - text: "Search live hotel rates for Madinah stays"
@@ -55,8 +55,8 @@ internalLinksBn:
     path: /blog/nusuk-hotel-brn-rawdah-gate-guide
   - text: "মক্কার হোটেল সেক্টর: টাওয়ার, পোডিয়াম ব্লক ও শাটল জোন"
     path: /blog/makkah-hotel-sectors-abraj-al-bait-jabal-omar
-  - text: "বাবা-মা, হুইলচেয়ার ও কোয়াড রুমের জন্য হোটেল"
-    path: /blog/family-elderly-umrah-hotels-ground-access
+  - text: "বয়স্ক বাবা-মাকে নিয়ে যাচ্ছেন? সহায়তা, চলাচল ও চিকিৎসার প্রস্তুতি"
+    path: /blog/umrah-with-elderly-parents-bangladesh-wheelchair-medical-guide
   - text: "মক্কা বা মদিনার যে হোটেলের প্রবেশপথ আপনার গেটের সঙ্গে মেলে"
     path: /blog/makkah-madinah-hotel-zones-haramain-train-guide-bangladesh
   - text: "মদিনার হোটেলের লাইভ ভাড়া সার্চ করুন"

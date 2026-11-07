@@ -1,7 +1,7 @@
 ---
 slug: nusuk-hotel-brn-rawdah-gate-guide
 status: scheduled
-publishDate: "2026-10-20"
+publishDate: "2026-11-03"
 title: "Nusuk Hotel BRN and Rawdah Permits: What Actually Opens the Gate"
 titleBn: "নুসুক হোটেল BRN ও রওদা পারমিট: গেট আসলে কীসে খোলে"
 summary: "Checked 8 November 2026: how a hotel's Booking Reference Number links to an Umrah visa, how Nusuk issues the Umrah and Rawdah permits, and the order to check things in when a gate refusal happens."

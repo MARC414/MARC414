@@ -1,7 +1,7 @@
 ---
 slug: makkah-to-madinah-haramain-train-vs-bus-taxi
 status: scheduled
-publishDate: "2026-10-28"
+publishDate: "2026-11-07"
 title: "Makkah to Madinah: Haramain Train, VIP Bus or Private Van"
 titleBn: "মক্কা থেকে মদিনা: হারামাইন ট্রেন, ভিআইপি বাস নাকি প্রাইভেট ভ্যান"
 summary: "Checked 8 November 2026: the real door-to-door timing of the Haramain high-speed train, the VIP coach and a private van, the luggage rule that refuses pilgrims at the gate, and how the group maths changes the answer."
@@ -13,9 +13,9 @@ authorBn: ফারহান মোমেন (ফাউন্ডার ও ট�
 readTime: 11 min read
 readTimeBn: ১১ মিনিট পঠন
 updatedAt: "2026-11-08"
-coverImage: haramain_bullet_train_1790484312808
-coverAltEn: A Haramain high-speed train at the platform, with the desert corridor beyond the station canopy.
-coverAltBn: প্ল্যাটফর্মে হারামাইন হাই-স্পিড ট্রেন, স্টেশনের ছাদের ওপারে মরুভূমির করিডোর।
+coverImage: haramain_platform_20261108
+coverAltEn: A high-speed Haramain train at a desert station platform in late afternoon light.
+coverAltBn: বিকেলের আলোয় মরুভূমির স্টেশন প্ল্যাটফর্মে হারামাইন হাই-স্পিড ট্রেন।
 seoTitle: "Makkah to Madinah Transport: Train vs VIP Bus vs Private Van (2026)"
 seoDescription: "The Haramain train is quick on the rails but slower door to door. Compare station transfers, the 25 kg one-bag rule, VIP coach luggage space and private van group pricing."
 seoTitleBn: "মক্কা থেকে মদিনা: ট্রেন, ভিআইপি বাস ও প্রাইভেট ভ্যান (২০২৬)"
@@ -25,9 +25,9 @@ snippetBn: "হারামাইন হাই-স্পিড ট্রেন �
 faqHeadingEn: "8. Frequently Asked Questions"
 faqHeadingBn: "৮. সচরাচর জিজ্ঞাসা"
 references:
-  - name: "Saudi Arabia Railways — Haramain High-Speed Railway (official operator, timetables, classes and conditions of carriage)"
+  - name: "Saudi Arabia Railways — official operator of the Haramain High-Speed Railway (route, timetables, classes and conditions of carriage)"
     nameBn: "সৌদি আরব রেলওয়ে — হারামাইন হাই-স্পিড রেলওয়ে (অফিসিয়াল অপারেটর, সময়সূচি, শ্রেণি ও পরিবহন শর্ত)"
-    url: "https://www.sar.com.sa/en/hhr"
+    url: "https://www.sar.com.sa/"
   - name: "SAPTCO — official intercity bus operator, routes and terminals"
     nameBn: "সাপটকো — অফিসিয়াল আন্তঃনগর বাস অপারেটর, রুট ও টার্মিনাল"
     url: "https://www.saptco.com.sa"

@@ -1,7 +1,7 @@
 ---
 slug: makkah-budget-shuttle-hotels-prayer-timing
 status: scheduled
-publishDate: "2026-10-26"
+publishDate: "2026-11-06"
 title: "Budget Hotels in Makkah: Making a Shuttle Work at Prayer Time"
 titleBn: "মক্কার বাজেট হোটেল: নামাজের সময়ে শাটলকে কাজে লাগানো"
 summary: "Checked 8 November 2026: how the pre-Adhan road closures change what a cheap Makkah or Madinah shuttle hotel is worth, where the buses actually drop you, and which room-level costs eat the saving."
@@ -13,9 +13,9 @@ authorBn: ফারহান মোমেন (ফাউন্ডার ও ট�
 readTime: 11 min read
 readTimeBn: ১১ মিনিট পঠন
 updatedAt: "2026-11-08"
-coverImage: ramadan_makkah_night_1790484415220
-coverAltEn: Makkah at night during Ramadan, with pilgrims moving between the Haram and the surrounding streets.
-coverAltBn: রমজানে রাতে মক্কা, হারাম ও আশপাশের রাস্তার মাঝে হাজিদের চলাচল।
+coverImage: shuttle_terminal_evening_20261108
+coverAltEn: An intercity coach waiting under a lit canopy at a bus terminal at night.
+coverAltBn: রাতে বাস টার্মিনালে আলোকিত ছাদের নিচে দাঁড়ানো আন্তঃনগর কোচ।
 seoTitle: "Budget Makkah Hotels and Shuttles: The Pre-Adhan Timing Rule (2026)"
 seoDescription: "Shuttle hotels in Makkah and Madinah save real money, but the bus stops before prayer. Learn the boarding rule, the Kudai and Jarwal terminals, and the room costs that erase the saving."
 seoTitleBn: "মক্কার বাজেট হোটেল ও শাটল: আজানের আগের সময়ের নিয়ম (২০২৬)"
@@ -42,8 +42,8 @@ internalLinksEn:
     path: /blog/nusuk-hotel-brn-rawdah-gate-guide
   - text: "Makkah hotel sectors compared: towers, podium blocks and shuttle zones"
     path: /blog/makkah-hotel-sectors-abraj-al-bait-jabal-omar
-  - text: "Convert map metres into real room-to-carpet walking time"
-    path: /blog/makkah-hotel-walking-time-vs-map-distance
+  - text: "DIY Umrah visa routes and the budget checks that go with them"
+    path: /blog/umrah-hajj-guide-bangladesh-nusuk-bdt-cost
   - text: "Where to stay in Madinah by gate and sector"
     path: /blog/where-to-stay-madinah-markazia-gate-guide
   - text: "Search live hotel rates for Makkah and Madinah stays"
@@ -55,8 +55,8 @@ internalLinksBn:
     path: /blog/nusuk-hotel-brn-rawdah-gate-guide
   - text: "মক্কার হোটেল সেক্টর: টাওয়ার, পোডিয়াম ব্লক ও শাটল জোন"
     path: /blog/makkah-hotel-sectors-abraj-al-bait-jabal-omar
-  - text: "ম্যাপের মিটার থেকে রুম-থেকে-সিজদা পর্যন্ত আসল সময়"
-    path: /blog/makkah-hotel-walking-time-vs-map-distance
+  - text: "DIY ওমরাহর ভিসা রুট ও তার সঙ্গে যাচাই করার বাজেট"
+    path: /blog/umrah-hajj-guide-bangladesh-nusuk-bdt-cost
   - text: "মদিনায় কোন পাশে, কোন গেট ধরে থাকবেন"
     path: /blog/where-to-stay-madinah-markazia-gate-guide
   - text: "মক্কা ও মদিনার হোটেলের লাইভ ভাড়া সার্চ করুন"

@@ -1,7 +1,7 @@
 ---
 slug: family-elderly-umrah-hotels-ground-access
 status: scheduled
-publishDate: "2026-10-30"
+publishDate: "2026-11-08"
 title: "Family and Elderly Umrah Hotels: Ground Access and Real Quad Rooms"
 titleBn: "পরিবার ও বয়স্কদের জন্য ওমরাহ হোটেল: মাটি থেকে প্রবেশ ও আসল কোয়াড রুম"
 summary: "Checked 8 November 2026: how incline, gate alignment and lift design decide whether a hotel works for parents and wheelchairs, what a quad room actually contains, and the five checks to make before paying."
@@ -13,9 +13,9 @@ authorBn: ফারহান মোমেন (ফাউন্ডার ও ট�
 readTime: 11 min read
 readTimeBn: ১১ মিনিট পঠন
 updatedAt: "2026-11-08"
-coverImage: hotel_guide_guest_room_20261101
-coverAltEn: A hotel guest room with two made single beds, a desk and a wide window.
-coverAltBn: হোটেলের অতিথি কক্ষ, দুটি বিছানা, একটি ডেস্ক ও চওড়া জানালা।
+coverImage: family_room_access_20261108
+coverAltEn: A hotel family room with four single beds and a wide clear walkway between them.
+coverAltBn: হোটেলের ফ্যামিলি রুম, চারটি একক বিছানা আর মাঝখানে চওড়া ফাঁকা পথ।
 seoTitle: "Family and Elderly Umrah Hotels: Ground Access and Quad Rooms (2026)"
 seoDescription: "Choose a Makkah or Madinah hotel for elderly parents and wheelchairs: step-free gate access, lift design, authentic quad beds, hidden extra-bed fees and a five-point check."
 seoTitleBn: "পরিবার ও বয়স্কদের ওমরাহ হোটেল: মাটি থেকে প্রবেশ ও কোয়াড রুম (২০২৬)"
@@ -42,8 +42,8 @@ internalLinksEn:
     path: /blog/umrah-with-elderly-parents-bangladesh-wheelchair-medical-guide
   - text: "Where to stay in Madinah by gate and sector"
     path: /blog/where-to-stay-madinah-markazia-gate-guide
-  - text: "Convert map metres into real room-to-carpet walking time"
-    path: /blog/makkah-hotel-walking-time-vs-map-distance
+  - text: "Makkah to Madinah: Haramain train, VIP bus or private van"
+    path: /blog/makkah-to-madinah-haramain-train-vs-bus-taxi
   - text: "Makkah hotel sectors compared: towers, podium blocks and shuttle zones"
     path: /blog/makkah-hotel-sectors-abraj-al-bait-jabal-omar
   - text: "Search live hotel rates for Makkah and Madinah stays"
@@ -55,8 +55,8 @@ internalLinksBn:
     path: /blog/umrah-with-elderly-parents-bangladesh-wheelchair-medical-guide
   - text: "মদিনায় কোন পাশে, কোন গেট ধরে থাকবেন"
     path: /blog/where-to-stay-madinah-markazia-gate-guide
-  - text: "ম্যাপের মিটার থেকে রুম-থেকে-সিজদা পর্যন্ত আসল সময়"
-    path: /blog/makkah-hotel-walking-time-vs-map-distance
+  - text: "মক্কা থেকে মদিনা: হারামাইন ট্রেন, ভিআইপি বাস নাকি প্রাইভেট ভ্যান"
+    path: /blog/makkah-to-madinah-haramain-train-vs-bus-taxi
   - text: "মক্কার হোটেল সেক্টর: টাওয়ার, পোডিয়াম ব্লক ও শাটল জোন"
     path: /blog/makkah-hotel-sectors-abraj-al-bait-jabal-omar
   - text: "মক্কা ও মদিনার হোটেলের লাইভ ভাড়া সার্চ করুন"

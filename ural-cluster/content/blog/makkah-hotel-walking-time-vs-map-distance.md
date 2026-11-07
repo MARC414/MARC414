@@ -1,7 +1,7 @@
 ---
 slug: makkah-hotel-walking-time-vs-map-distance
 status: scheduled
-publishDate: "2026-10-31"
+publishDate: "2026-11-09"
 title: "Makkah Walking Times: What Map Distance Does Not Tell You"
 titleBn: "মক্কায় হাঁটার সময়: ম্যাপের দূরত্ব যা বলে না"
 summary: "Checked 8 November 2026: the four stages that make up room-to-carpet time in Makkah, how the Clock Tower towers and Jabal Omar blocks differ in practice, and when paying for ground access is worth it."
@@ -25,8 +25,8 @@ snippetBn: "বুকিং ম্যাপ ভবন থেকে মসজি�
 faqHeadingEn: "7. Frequently Asked Questions"
 faqHeadingBn: "৭. সচরাচর জিজ্ঞাসা"
 references:
-  - name: "General Authority for the Care of the Grand Mosque and the Prophet's Mosque — official gate and services information"
-    nameBn: "মহান মসজিদ ও নবী মসজিদ পরিচর্যা কর্তৃপক্ষ — অফিসিয়াল গেট ও সেবা তথ্য"
+  - name: "Presidency of Religious Affairs of the Grand Mosque and the Prophet's Mosque — official authority for the Two Holy Mosques (Arabic)"
+    nameBn: "মহান মসজিদ ও নবী মসজিদের ধর্মীয় বিষয়ক প্রেসিডেন্সি — দুই পবিত্র মসজিদের অফিসিয়াল কর্তৃপক্ষ (আরবি)"
     url: "https://prh.gov.sa/en"
   - name: "Saudi Ministry of Hajj and Umrah — official pilgrim portal"
     nameBn: "সৌদি হজ্জ ও ওমরাহ মন্ত্রণালয় — অফিসিয়াল হাজি পোর্টাল"
