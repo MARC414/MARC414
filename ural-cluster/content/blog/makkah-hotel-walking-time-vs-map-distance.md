@@ -37,6 +37,9 @@ references:
   - name: "Visit Saudi — current visa regulations and eligibility"
     nameBn: "ভিজিট সৌদি — চলতি ভিসা নিয়ম ও যোগ্যতা"
     url: "https://www.visitsaudi.com/en/plan-your-trip/visa-regulations"
+  - name: "Booking.com — hotels near Masjid Al Haram with platform-measured map distances (used only as an example of how listing distances are measured, not as a walking-time source)"
+    nameBn: "বুকিং ডট কম — মাসজিদ আল-হারামের কাছের হোটেল ও প্ল্যাটফর্মে মাপা ম্যাপ-দূরত্ব (কেবল লিস্টিংয়ের দূরত্ব কীভাবে মাপা হয় তার উদাহরণ হিসেবে, হাঁটার সময়ের সূত্র হিসেবে নয়)"
+    url: "https://www.booking.com/landmark/sa/the-sacred-mosque-masjid-al-haram.html"
 internalLinksEn:
   - text: "Makkah hotel sectors compared: towers, podium blocks and shuttle zones"
     path: /blog/makkah-hotel-sectors-abraj-al-bait-jabal-omar
@@ -77,7 +80,7 @@ A booking map measures one line: from the building to the mosque boundary. Your 
 
 **Room-to-carpet time = lift wait + internal corridor + plaza walk + gate clearance.**
 
-In Makkah's tallest towers the lift wait can be the largest number in that sum, especially in the half hour around a congregational prayer. In Jabal Omar and along the western plaza, the same sum is dominated by a short, flat walk. The distance claim on the listing is the one number that tells you least.
+In Makkah's tallest towers the lift wait can be the largest number in that sum, especially in the half hour around a congregational prayer. In Jabal Omar and along the western plaza, the same sum is dominated by a short, flat walk. The distance claim on the listing is the one number that tells you least. One large booking platform currently lists the Clock Royal Tower at about 900 feet from Masjid Al Haram and Swissotel Al Maqam at about 700 feet, and both figures are a straight map line to the mosque boundary — not the corridor, the lift queue and the gate you will actually cross [5].
 
 ## Stage one: the lift
 
@@ -151,7 +154,7 @@ It is worth it when someone in the group cannot manage a long indoor detour or a
 
 **রুম থেকে সিজদা পর্যন্ত সময় = লিফটের অপেক্ষা + ভেতরের করিডোর + চত্বরে হাঁটা + গেটে ছাড়।**
 
-মক্কার সবচেয়ে উঁচু টাওয়ারে ওই যোগফলের সবচেয়ে বড় সংখ্যাটা লিফটের অপেক্ষা হতে পারে, বিশেষ করে জামাতের আশপাশের আধা ঘণ্টায়। জাবাল ওমর ও পশ্চিম চত্বরে একই যোগফলকে চালায় ছোট, সমতল হাঁটা। লিস্টিংয়ের দূরত্বই সেই সংখ্যা যা সবচেয়ে কম বলে।
+মক্কার সবচেয়ে উঁচু টাওয়ারে ওই যোগফলের সবচেয়ে বড় সংখ্যাটা লিফটের অপেক্ষা হতে পারে, বিশেষ করে জামাতের আশপাশের আধা ঘণ্টায়। জাবাল ওমর ও পশ্চিম চত্বরে একই যোগফলকে চালায় ছোট, সমতল হাঁটা। লিস্টিংয়ের দূরত্বই সেই সংখ্যা যা সবচেয়ে কম বলে। একটি বড় বুকিং প্ল্যাটফর্ম এখন মাসজিদ আল-হারাম থেকে ক্লক রয়্যাল টাওয়ারকে দেখায় প্রায় ৯০০ ফুট আর সুইসোটেল আল মাকামকে প্রায় ৭০০ ফুট দূরে—দুটোই মসজিদের সীমানা পর্যন্ত সরল ম্যাপ-রেখা, আপনি যে করিডোর, লিফটের লাইন ও গেট পেরোবেন তা নয় [5]।
 
 ## প্রথম ধাপ: লিফট
 

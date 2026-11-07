@@ -43,6 +43,12 @@ references:
   - name: "Visit Saudi — current visa regulations and eligibility"
     nameBn: "ভিজিট সৌদি — চলতি ভিসা নিয়ম ও যোগ্যতা"
     url: "https://www.visitsaudi.com/en/plan-your-trip/visa-regulations"
+  - name: "Wego Travel Blog — Nusuk app guide 2026: booking reference numbers for hotel and transport, permits and visa channels (independent travel-platform guide, last updated 8 September 2026)"
+    nameBn: "উইগো ট্রাভেল ব্লগ — নুসুক অ্যাপ নির্দেশিকা ২০২৬: হোটেল ও পরিবহনের বুকিং রেফারেন্স নম্বর, পারমিট ও ভিসা চ্যানেল (স্বাধীন ট্রাভেল-প্ল্যাটফর্ম নির্দেশিকা, সর্বশেষ হালনাগাদ ৮ সেপ্টেম্বর ২০২৬)"
+    url: "https://blog.wego.com/nusuk-app/"
+  - name: "Package Umrah — how to use the Nusuk app in 2026: Rawdah and Umrah permit steps, permit frequency, gate routine (agency guide, published for pilgrims travelling from the UK)"
+    nameBn: "প্যাকেজ উমরাহ — ২০২৬ সালে নুসুক অ্যাপ কীভাবে ব্যবহার করবেন: রওদা ও ওমরাহ পারমিটের ধাপ, পারমিটের সংখ্যা-সীমা, গেটের নিয়ম (এজেন্সি নির্দেশিকা, যুক্তরাজ্য থেকে আসা হাজিদের জন্য)"
+    url: "https://packageumrah.co.uk/how-to-use-nusuk-app-2026/"
 internalLinksEn:
   - text: "Nusuk registration, Visa Bio and the Rawdah permit walk-through"
     path: /blog/nusuk-app-saudi-visa-bio-guide-bangladesh-rawdah-permit
@@ -96,7 +102,7 @@ The Ministry's visa route is built around two references that must be generated 
 - **Accommodation BRN.** The booking code issued for your stay in Makkah and Madinah. It covers the dates you declared; a stay with a relative, or a reservation made outside a licensed channel, does not produce one.
 - **Transport BRN.** A booking code for the transfer, at minimum the arrival leg from Jeddah or Madinah airport, again through a licensed operator.
 
-Neither number is a receipt. They are records that let the visa system confirm that your declared itinerary exists. When a pilgrim tells us the visa "went pending", the first question is usually which of the two references the provider never issued.
+Neither number is a receipt. They are records that let the visa system confirm that your declared itinerary exists. When a pilgrim tells us the visa "went pending", the first question is usually which of the two references the provider never issued. Two independent 2026 guides written for pilgrims travelling from abroad describe the identical pair — a hotel booking that must cover the whole stay, plus at least a one-way arrival transfer, both carrying a reference the visa system can read [7] — and the routine at the door is the same in both: the QR code is scanned before entry, and pilgrims are asked to reach the waiting area 20 to 30 minutes before the slot [8].
 
 **What to keep, in one place:** the hotel confirmation showing the BRN, the transport confirmation showing its BRN, the visa number, and the passport details exactly as they were typed into the application. Mismatched passport spellings between the booking and the application is the most common reason a permit refuses to issue.
 
@@ -193,7 +199,7 @@ It helps but it is not the plan, so save the permit as a screenshot as soon as i
 - **আবাসন BRN।** মক্কা ও মদিনায় থাকার জন্য ইস্যু করা বুকিং কোড। আপনি যে তারিখ ঘোষণা করেছেন সেটিই এর আওতায়; আত্মীয়ের বাড়িতে থাকা বা লাইসেন্সবিহীন চ্যানেলে বুকিং করলে এই কোড তৈরি হয় না।
 - **পরিবহন BRN।** ট্রান্সফারের বুকিং কোড, অন্তত জেদ্দা বা মদিনা বিমানবন্দর থেকে আসার লেগের জন্য, তাও লাইসেন্সপ্রাপ্ত অপারেটরের মাধ্যমে।
 
-দুটোই রসিদ নয়। এগুলো এমন রেকর্ড, যার মাধ্যমে ভিসা সিস্টেম নিশ্চিত হয় আপনার ঘোষিত যাত্রাপথ সত্যিই আছে। কারও ভিসা "পেন্ডিং" থাকলে প্রথম প্রশ্ন—দুটি রেফারেন্সের কোনটি প্রতিষ্ঠান আর ইস্যু করেনি।
+দুটোই রসিদ নয়। এগুলো এমন রেকর্ড, যার মাধ্যমে ভিসা সিস্টেম নিশ্চিত হয় আপনার ঘোষিত যাত্রাপথ সত্যিই আছে। কারও ভিসা "পেন্ডিং" থাকলে প্রথম প্রশ্ন—দুটি রেফারেন্সের কোনটি প্রতিষ্ঠান আর ইস্যু করেনি। বিদেশ থেকে আসা হাজিদের জন্য ২০২৬ সালে লেখা দুইটি স্বাধীন নির্দেশিকাও ঠিক এই জোড়াটির কথাই বলে—পুরো থাকার সময়টা ঢেকে দেয় এমন হোটেল বুকিং, সঙ্গে অন্তত একমুখী আগমন-ট্রান্সফার, দুটিতেই এমন রেফারেন্স যা ভিসা সিস্টেম পড়তে পারে [7]—আর দরজার নিয়মও দুই জায়গায় এক: প্রবেশের আগে QR কোড স্ক্যান হয়, আর নির্ধারিত সময়ের ২০–৩০ মিনিট আগে অপেক্ষার জায়গায় পৌঁছাতে বলা হয় [8]।
 
 **এক জায়গায় যা রাখবেন:** BRN লেখা হোটেল কনফার্মেশন, BRN লেখা পরিবহন কনফার্মেশন, ভিসা নম্বর, আর আবেদনে যে বানানে পাসপোর্ট লিখেছিলেন ঠিক সেই তথ্য। বুকিং ও আবেদনে পাসপোর্টের বানান আলাদা হলে পারমিট ইস্যু না হওয়ার সবচেয়ে সাধারণ কারণ সেটিই।
 

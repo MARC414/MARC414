@@ -113,9 +113,39 @@ original wording, name it and I will put it back (and note the exception in the 
 8. **Pillar** — doc 08's holistic frame and booking lead times kept; the "Top 10" repeats and the
    five invented internal URLs remapped to the seven real cluster routes.
 
-## 4. What could still be verified, if you want it done
+## 4. The Google Sheet `notebook_sources_urls` — read 8 November 2026
+
+You pointed at the sheet behind the `[cite: n]` markers, so it was read in full and used.
+Full row-by-row mapping: **`SOURCE-MAP.md`** in this folder. The short version:
+
+- **40 data rows, 20 unique URLs**, each duplicated with a `(Duplicate Source)` suffix — which is exactly
+  why the drafts cited the same page twice per claim.
+- **None of the 20 is a Saudi government, operator-authority or mosque-authority domain.** The sheet is a
+  reading list of booking platforms (6 pages), agency and content blogs (9), Haramain resellers (2),
+  two independent editorials (ZiyaraGo, LoveUmrah), one OTA blog (Wego) and one official bus operator (SAT).
+  It is provenance, not proof. The articles' backbone stays the authority pages listed in §1.
+- **8 of 20 fetched, 6 cited.** Twelve were not fetched because their class makes them unusable as
+  evidence (hotel filter pages, listicles, a user-generated Trip.com post); that judgement is recorded
+  per row in `SOURCE-MAP.md` rather than left implicit.
+
+**What the sheet changed — three corrections and two fills:**
+
+| Item | Before | After | Sheet source |
+|---|---|---|---|
+| Train economy fare (art. 5) | SAR 119–172 | SAR 120–200, higher on peak dates | LoveUmrah (#14) |
+| Coach paragraph (art. 5) | one operator, "standard SAPTCO" | SAPTCO standard SAR 69–85 **and** SAT standard SAR 85–130, VIP SAR 100–170 | SAT official site (#17) + LoveUmrah (#14) |
+| Private car (art. 5) | sedan 400–600, van 700–900 | sedan 400–800, van 650–1,100 | LoveUmrah (#14) |
+| Station deadlines (art. 5) | not stated | ticket offices close 20 min before departure, gates 10 min, no-show forfeits the ticket | ZiyaraGo (#7) |
+| Luggage dimensions, Bengali (art. 5) | missing | 65 × 55 × 35 cm added to match the English twin | operator baggage page (already cited) |
+| Listing-distance argument (art. 7) | argued abstractly | concrete: the Clock Royal Tower at ~900 ft and Swissotel Al Maqam at ~700 ft on one platform | Booking.com (#10) |
+| Booking chain (art. 1) | ministry pages only | plus two independent 2026 guides on the hotel + transport reference pair and the gate routine | Wego (#16), Package Umrah (#11) |
+
+Two sheet entries were deliberately **not** cited: `haramainrailway.com` and `haramain-train.com` are
+ticket resellers, not the operator, and `flymoreme.com` sells distance tiers ("under 750 m = a 9–10 minute
+walk") that are the very map-distance arithmetic article 7 warns about.
+
+## 5. What could still be verified, if you want it done
 
 Ask and I will chase a source for any of these: the Madinah women's gate numbering from an official
-or mosque-authority page; the pre-adhan road-closure window from a Makkah traffic announcement;
-per-property distances from the properties' own pages; and the 21 inventory titles, each fetched and
-confirmed before it goes anywhere near a reference list.
+or mosque-authority page; the pre-adhan road-closure window from a Makkah traffic announcement; and
+per-property distances from the properties' own pages (no page in the sheet is the property itself).

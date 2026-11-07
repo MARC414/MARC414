@@ -40,6 +40,15 @@ references:
   - name: "Nusuk — official pilgrim platform for permits and services"
     nameBn: "নুসুক — পারমিট ও সেবার অফিসিয়াল হাজি প্ল্যাটফর্ম"
     url: "https://www.nusuk.sa"
+  - name: "SAT (Saudi Arabia Transport) — licensed intercity coach operator: STANDARD and VIP ticket tiers bookable on the operator's own site and app"
+    nameBn: "স্যাট (সৌদি আরব ট্রান্সপোর্ট) — লাইসেন্সপ্রাপ্ত আন্তঃনগর কোচ অপারেটর: অপারেটরের নিজের সাইট ও অ্যাপে স্ট্যান্ডার্ড ও ভিআইপি টিকিট"
+    url: "https://www.satrans.com.sa/"
+  - name: "ZiyaraGo — Haramain High-Speed Train guide compiled from the operator's public pages, reviewed 16 October 2026 (station cut-off times, change and cancellation fees, delay compensation)"
+    nameBn: "জিয়ারাগো — অপারেটরের প্রকাশ্য পাতা থেকে সংকলিত হারামাইন হাই-স্পিড ট্রেন নির্দেশিকা, ১৬ অক্টোবর ২০২৬-এ পুনরীক্ষিত (স্টেশনের সময়সীমা, পরিবর্তন ও বাতিল ফি, বিলম্বে ক্ষতিপূরণ)"
+    url: "https://ziyarago.com/en/news/haramain-high-speed-train-guide"
+  - name: "LoveUmrah — independent Makkah–Madinah transport comparison for 2026 (fare bands for train, coach and private car; door-to-door timing)"
+    nameBn: "লাভউমরাহ — ২০২৬ সালের স্বাধীন মক্কা–মদিনা পরিবহন তুলনা (ট্রেন, কোচ ও প্রাইভেট গাড়ির ভাড়ার ধারা; দরজা-থেকে-দরজা সময়)"
+    url: "https://loveumrah.com/blog/makkah-to-madinah-transport-2026"
 internalLinksEn:
   - text: "Where to stay in Madinah by gate and sector"
     path: /blog/where-to-stay-madinah-markazia-gate-guide
@@ -101,17 +110,17 @@ The coach's total is longer — 7.5 to 8.5 hours door to door — but it is a si
 
 The line is operated by Saudi Arabia Railways and connects Makkah, Jeddah, King Abdulaziz International Airport, the Knowledge Economic City stop and Madinah. For pilgrims the useful pair is Makkah Rusaifah to Madinah Central.
 
-**Classes.** Economy uses a 2+2 layout with fold-down trays, power outlets and access to the cafeteria car; fares are commonly published in the SAR 119–172 band per seat. Business uses a 2+1 leather layout with wider recline, individual sockets, station lounge access and an at-seat meal; the band is roughly SAR 210–350 and up. **These are indicative published bands, checked 8 November 2026, not quotes** — book on the operator's own site and the fare you see is the fare that applies.
+**Classes.** Economy uses a 2+2 layout with fold-down trays, power outlets and access to the cafeteria car; fares are commonly quoted from about SAR 120 to SAR 200 per seat, and higher on peak dates. Business uses a 2+1 leather layout with wider recline, individual sockets, station lounge access and an at-seat meal; the band is roughly SAR 210–350 and up. **These are indicative published bands, checked 8 November 2026, not quotes** — book on the operator's own site and the fare you see is the fare that applies.
 
 **The luggage rule is the real gatekeeper.** One checked bag up to 25 kg and no larger than 65 × 55 × 35 cm, plus one small hand item, per ticketed passenger. Business class does not increase it. Arrive with an oversized box, a second duffel or a 30 kg case and station security can refuse it, which turns a cheap ticket into an expensive problem. If your group is carrying Zemzem water, gifts or a year's shopping, the train is the wrong vehicle and the coach or van is the right one.
 
-**Booking windows.** Inventory typically opens six to eight weeks before departure, and additional batches and promotional economy fares tend to appear on Tuesday mornings. Book on the operator's site or app, and check that you have selected Makkah Rusaifah rather than Jeddah or KAEC.
+**Booking windows.** Inventory typically opens six to eight weeks before departure, and additional batches and promotional economy fares tend to appear on Tuesday mornings. Book on the operator's site or app, and check that you have selected Makkah Rusaifah rather than Jeddah or KAEC. On the day itself the clock is short: ticket offices close 20 minutes before departure and boarding gates close 10 minutes before it, and a passenger who misses the train forfeits the ticket without a refund.
 
 ## The coach option
 
 **VIP services.** A 32-seat executive configuration with 2+1 reclining leather seats, seatback screens, Wi-Fi, USB charging, an on-board restroom and served refreshments. Baggage goes into the underfloor hold — commonly two large cases of up to 30 kg each plus Zemzem cartons per passenger, which is the reason many long-stay pilgrims prefer it. Fares sit in the SAR 100–170 band per seat, indicative as above.
 
-**Standard SAPTCO services.** Continuous daily departures between the main terminals at the lowest seat fares in the market, in the SAR 69–85 band. Fewer amenities, same road, and a genuinely useful option for a solo traveller on a tight budget with time to spare.
+**Standard coach services.** Two licensed intercity operators run this road. SAPTCO coaches leave the main terminals continuously through the day, and SAT — the other licensed operator — sells its own seats in two tiers, STANDARD and VIP, on the same booking site and app. Standard seats are commonly quoted in the SAR 69–85 band on SAPTCO and around SAR 85–130 on SAT; the VIP tier sits in the SAR 100–170 band. Fewer amenities, same road, and a genuinely useful option for a solo traveller on a tight budget with time to spare.
 
 Both coach classes leave from and arrive at bus terminals rather than at your hotel, so add a short taxi at each end — but nothing like the station transfer a rail journey needs.
 
@@ -119,7 +128,7 @@ Both coach classes leave from and arrive at bus terminals rather than at your ho
 
 A private transfer collects you at the Makkah hotel driveway and drops you at the Madinah hotel entrance. No terminal, no scanning queue, no bag lift except your own.
 
-Vehicle categories roughly follow group size: a sedan for one to three passengers, an SUV for up to six, and a large van such as a Hiace for up to eleven with luggage. Published market bands, checked 8 November 2026 and indicative only, run from around SAR 400–600 for a sedan to SAR 700–900 for a family van.
+Vehicle categories roughly follow group size: a sedan for one to three passengers, an SUV for up to six, and a large van such as a Hiace for up to eleven with luggage. Published market bands, checked 8 November 2026 and indicative only, run from about SAR 400–800 for a sedan to SAR 650–1,100 for a family van.
 
 The comparison that decides it is per head, not per vehicle. Five train tickets plus two taxi legs at each end, plus any excess-luggage handling, usually exceeds the price of one van that carries all five and their bags from lobby to lobby. Two travellers with one suitcase each will find the train cheaper and faster.
 
@@ -185,17 +194,17 @@ Yes, and ask for the vehicle category in writing with the luggage count, because
 
 লাইনটি সৌদি আরব রেলওয়ে চালায় এবং মক্কা, জেদ্দা, কিং আব্দুল আজিজ আন্তর্জাতিক বিমানবন্দর, নলেজ ইকোনমিক সিটির স্টপ ও মদিনাকে যুক্ত করে। হাজিদের জন্য কাজের জোড়া হলো মক্কা রুসাইফা থেকে মদিনা সেন্ট্রাল।
 
-**শ্রেণি।** ইকোনমিতে ২+২ বিন্যাস, ভাঁজ ট্রে, পাওয়ার আউটলেট ও ক্যাফেটেরিয়া কারের সুবিধা; ভাড়া সাধারণত প্রতি আসনে SAR ১১৯–১৭২ ধারায় প্রকাশিত। বিজনেসে ২+১ লেদার বিন্যাস, বেশি রিক্লাইন, নিজের সকেট, স্টেশন লাউঞ্জ ও আসনে খাবার; ধারা প্রায় SAR ২১০–৩৫০ ও তার ওপরে। **এগুলো ৮ নভেম্বর ২০২৬-এ দেখা ক্রম-নির্দেশক প্রকাশিত ধারা, কোট নয়** — অপারেটরের নিজের সাইটে বুক করুন, যে ভাড়া দেখবেন সেটিই প্রযোজ্য।
+**শ্রেণি।** ইকোনমিতে ২+২ বিন্যাস, ভাঁজ ট্রে, পাওয়ার আউটলেট ও ক্যাফেটেরিয়া কারের সুবিধা; ভাড়া সাধারণত প্রতি আসনে SAR ১২০ থেকে ২০০ পর্যন্ত, ব্যস্ত তারিখে তার চেয়ে বেশি। বিজনেসে ২+১ লেদার বিন্যাস, বেশি রিক্লাইন, নিজের সকেট, স্টেশন লাউঞ্জ ও আসনে খাবার; ধারা প্রায় SAR ২১০–৩৫০ ও তার ওপরে। **এগুলো ৮ নভেম্বর ২০২৬-এ দেখা ক্রম-নির্দেশক প্রকাশিত ধারা, কোট নয়** — অপারেটরের নিজের সাইটে বুক করুন, যে ভাড়া দেখবেন সেটিই প্রযোজ্য।
 
-**লাগেজের নিয়মই আসল দারোয়ান।** প্রতি টিকিটধারী যাত্রীর এক চেকড ব্যাগ সর্বোচ্চ ২৫ কেজি, সঙ্গে একটি ছোট হাতব্যাগ। বিজনেস ক্লাসে এটি বাড়ে না। অতিরিক্ত বড় কার্টন, দ্বিতীয় ডাফেল বা ৩০ কেজির স্যুটকেস নিয়ে গেলে স্টেশন নিরাপত্তা তা ফিরিয়ে দিতে পারে, আর সস্তা টিকিট তখন ব্যয়বহুল সমস্যা হয়ে ওঠে। দলে জমজমের পানি, উপহার বা বছরের কেনাকাটা থাকলে ট্রেন ভুল যান—কোচ বা ভ্যান সঠিক।
+**লাগেজের নিয়মই আসল দারোয়ান।** প্রতি টিকিটধারী যাত্রীর এক চেকড ব্যাগ সর্বোচ্চ ২৫ কেজি ও ৬৫ × ৫৫ × ৩৫ সেন্টিমিটারের মধ্যে, সঙ্গে একটি ছোট হাতব্যাগ। বিজনেস ক্লাসে এটি বাড়ে না। অতিরিক্ত বড় কার্টন, দ্বিতীয় ডাফেল বা ৩০ কেজির স্যুটকেস নিয়ে গেলে স্টেশন নিরাপত্তা তা ফিরিয়ে দিতে পারে, আর সস্তা টিকিট তখন ব্যয়বহুল সমস্যা হয়ে ওঠে। দলে জমজমের পানি, উপহার বা বছরের কেনাকাটা থাকলে ট্রেন ভুল যান—কোচ বা ভ্যান সঠিক।
 
-**বুকিংয়ের সময়।** টিকিট সাধারণত যাত্রার ছয়-আট সপ্তাহ আগে খোলে, আর বাড়তি ব্যাচ ও প্রোমোশনাল ইকোনমি ভাড়া সাধারণত মঙ্গলবার সকালে আসে। অপারেটরের সাইট বা অ্যাপে বুক করুন, এবং জেদ্দা বা কেইএসি নয়—মক্কা রুসাইফা বাছেছেন কি না মিলিয়ে নিন।
+**বুকিংয়ের সময়।** টিকিট সাধারণত যাত্রার ছয়-আট সপ্তাহ আগে খোলে, আর বাড়তি ব্যাচ ও প্রোমোশনাল ইকোনমি ভাড়া সাধারণত মঙ্গলবার সকালে আসে। অপারেটরের সাইট বা অ্যাপে বুক করুন, এবং জেদ্দা বা কেইএসি নয়—মক্কা রুসাইফা বাছেছেন কি না মিলিয়ে নিন। যাত্রার দিন হিসাবটা ছোট: টিকিট অফিস ছাড়ার ২০ মিনিট আগে বন্ধ হয়, বোর্ডিং গেট বন্ধ ১০ মিনিট আগে, আর ট্রেন মিস করলে টিকিট ফেরত ছাড়াই হারায়।
 
 ## কোচ অপশন
 
 **ভিআইপি সেবা।** ৩২ আসনের এক্সিকিউটিভ বিন্যাস, ২+১ রিক্লাইনিং লেদার আসন, পিঠের স্ক্রিন, ওয়াইফাই, ইউএসবি চার্জিং, বোর্ডে টয়লেট ও পরিবেশিত পানীয়। লাগেজ যায় নিচের হোলে—সাধারণত প্রতি যাত্রীর দুইটি বড় স্যুটকেস (প্রতিটি ৩০ কেজি পর্যন্ত) আর জমজমের কার্টন, এই কারণেই দীর্ঘ থাকার অনেক হাজি এটি বেছে নেন। ভাড়া প্রতি আসনে SAR ১০০–১৭০ ধারায়, উপরের মতোই ক্রম-নির্দেশক।
 
-**সাধারণ সাপটকো সেবা।** প্রধান টার্মিনালের মধ্যে প্রতিদিন একটানা ছাড়, বাজারের সবচেয়ে কম আসন-ভাড়ায়, SAR ৬৯–৮৫ ধারায়। সুবিধা কম, রাস্তা একই, আর সময় হাতে থাকা কম বাজেটের একা হাজির জন্য সত্যিই কাজের অপশন।
+**সাধারণ কোচ সেবা।** এই রাস্তায় দুইটি লাইসেন্সপ্রাপ্ত আন্তঃনগর অপারেটর চলে। সাপটকোর কোচ দিনভর প্রধান টার্মিনাল থেকে ছাড়ে; অন্যটি—স্যাট (SAT)—একই বুকিং সাইট ও অ্যাপে দুই স্তরে টিকিট বিক্রি করে, স্ট্যান্ডার্ড ও ভিআইপি। স্ট্যান্ডার্ড আসন সাধারণত সাপটকোতে SAR ৬৯–৮৫ আর স্যাটে প্রায় SAR ৮৫–১৩০ ধারায়, ভিআইপি স্তর SAR ১০০–১৭০ ধারায়। সুবিধা কম, রাস্তা একই, আর সময় হাতে থাকা কম বাজেটের একা হাজির জন্য সত্যিই কাজের অপশন।
 
 দুই ধরনের কোচই হোটেলে না গিয়ে বাস টার্মিনাল থেকে ছাড়ে ও পৌঁছায়, তাই দুই প্রান্তে ছোট ট্যাক্সি যোগ করুন—তবে রেলযাত্রার স্টেশন ট্রান্সফারের মতো কিছু নয়।
 
@@ -203,7 +212,7 @@ Yes, and ask for the vehicle category in writing with the luggage count, because
 
 প্রাইভেট ট্রান্সফার মক্কার হোটেলের ড্রাইভওয়ে থেকে তুলে নিয়ে মদিনার হোটেলের প্রবেশপথে নামায়। টার্মিনাল নেই, স্ক্যানিংয়ের লাইন নেই, নিজের ব্যাগ ছাড়া তোলার কাজ নেই।
 
-গাড়ির শ্রেণি মোটামুটি দলের আকার অনুসরণ করে: এক থেকে তিনজনের সেডান, ছয়জন পর্যন্ত এসইউভি, আর লাগেজসহ এগারোজন পর্যন্ত হায়েসের মতো বড় ভ্যান। প্রকাশিত বাজার-ধারা, ৮ নভেম্বর ২০২৬-এ দেখা এবং কেবল ক্রম-নির্দেশক, সেডানে প্রায় SAR ৪০০–৬০০ থেকে পারিবারিক ভ্যানে SAR ৭০০–৯০০।
+গাড়ির শ্রেণি মোটামুটি দলের আকার অনুসরণ করে: এক থেকে তিনজনের সেডান, ছয়জন পর্যন্ত এসইউভি, আর লাগেজসহ এগারোজন পর্যন্ত হায়েসের মতো বড় ভ্যান। প্রকাশিত বাজার-ধারা, ৮ নভেম্বর ২০২৬-এ দেখা এবং কেবল ক্রম-নির্দেশক, সেডানে প্রায় SAR ৪০০–৮০০ আর পারিবারিক ভ্যানে SAR ৬৫০–১,১০০।
 
 সিদ্ধান্ত নেওয়ার হিসাবটি মাথাপিছু, গাড়িপিছু নয়। পাঁচটি ট্রেন টিকিট যোগ দুই প্রান্তে দুই ট্যাক্সি, সঙ্গে বাড়তি লাগেজ সামলানোর খরচ—সাধারণত একটি ভ্যানের চেয়ে বেশি, যে ভ্যান পাঁচজনকে ও তাদের ব্যাগ লবি থেকে লবি পর্যন্ত নেয়। দুই যাত্রী, প্রত্যেকে একটি স্যুটকেস—তাঁদের জন্য ট্রেনই সস্তা ও দ্রুত।
 
