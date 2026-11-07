@@ -63,6 +63,7 @@ push step is blocked. Two ways forward:
 ## What is in here
 
 ```
+VERIFICATION-LEDGER.md        what the Drive documents proved, what was softened, what changed
 content/blog/                 8 new posts (English + full Bengali twin each)
 public/assets/images/         8 covers × 3 widths × WebP + AVIF (48 files)
 src/assets/optimized-social/  8 social masters (1200×800, q82)

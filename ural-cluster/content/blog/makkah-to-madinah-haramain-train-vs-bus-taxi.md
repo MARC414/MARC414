@@ -28,6 +28,9 @@ references:
   - name: "Saudi Arabia Railways — official operator of the Haramain High-Speed Railway (route, timetables, classes and conditions of carriage)"
     nameBn: "সৌদি আরব রেলওয়ে — হারামাইন হাই-স্পিড রেলওয়ে (অফিসিয়াল অপারেটর, সময়সূচি, শ্রেণি ও পরিবহন শর্ত)"
     url: "https://www.sar.com.sa/"
+  - name: "Haramain High Speed Railway — official baggage policy: one piece up to 25 kg and 65 × 55 × 35 cm, plus one hand item, per passenger"
+    nameBn: "হারামাইন হাই স্পিড রেলওয়ে — অফিসিয়াল লাগেজ নীতি: প্রতি যাত্রীর একটি ব্যাগ সর্বোচ্চ ২৫ কেজি ও ৬৫ × ৫৫ × ৩৫ সেমি, সঙ্গে একটি হাতব্যাগ"
+    url: "https://sar.hhr.sa/travel/guidelines/baggage"
   - name: "SAPTCO — official intercity bus operator, routes and terminals"
     nameBn: "সাপটকো — অফিসিয়াল আন্তঃনগর বাস অপারেটর, রুট ও টার্মিনাল"
     url: "https://www.saptco.com.sa"
@@ -100,7 +103,7 @@ The line is operated by Saudi Arabia Railways and connects Makkah, Jeddah, King 
 
 **Classes.** Economy uses a 2+2 layout with fold-down trays, power outlets and access to the cafeteria car; fares are commonly published in the SAR 119–172 band per seat. Business uses a 2+1 leather layout with wider recline, individual sockets, station lounge access and an at-seat meal; the band is roughly SAR 210–350 and up. **These are indicative published bands, checked 8 November 2026, not quotes** — book on the operator's own site and the fare you see is the fare that applies.
 
-**The luggage rule is the real gatekeeper.** One checked bag up to 25 kg, plus one small hand item, per ticketed passenger. Business class does not increase it. Arrive with an oversized box, a second duffel or a 30 kg case and station security can refuse it, which turns a cheap ticket into an expensive problem. If your group is carrying Zemzem water, gifts or a year's shopping, the train is the wrong vehicle and the coach or van is the right one.
+**The luggage rule is the real gatekeeper.** One checked bag up to 25 kg and no larger than 65 × 55 × 35 cm, plus one small hand item, per ticketed passenger. Business class does not increase it. Arrive with an oversized box, a second duffel or a 30 kg case and station security can refuse it, which turns a cheap ticket into an expensive problem. If your group is carrying Zemzem water, gifts or a year's shopping, the train is the wrong vehicle and the coach or van is the right one.
 
 **Booking windows.** Inventory typically opens six to eight weeks before departure, and additional batches and promotional economy fares tend to appear on Tuesday mornings. Book on the operator's site or app, and check that you have selected Makkah Rusaifah rather than Jeddah or KAEC.
 
